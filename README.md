@@ -1,3 +1,3 @@
-# Todo Application In Javascript
+# Grocery List In Javascript
 
-# Add Todo And Delete Todo And Complete Todo
+# CODING PRACTICE 7
